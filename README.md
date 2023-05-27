@@ -3,4 +3,4 @@
 パッチや覚書など。
 
 ## 目次
-* [X68000ZでUART越しにHDDディスクイメージにアクセスする方法](X68000Z_UART_disk_access.md)
+* [X68000ZでUART越しにHDDディスクイメージにアクセス(2023/5/27更新)](X68000Z_UART_disk_access.md)
